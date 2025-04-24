@@ -36,5 +36,4 @@
 ## 🌐 Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1DA1F2?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/lav%C3%ADnia-domingos-515534352/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/lavviuu/)
 
