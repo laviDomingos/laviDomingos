@@ -8,7 +8,7 @@
 
 - 👨‍💻 Meu nome é Lavínia Domingos  
 - 💻 Aprendiz de Desenvolvimento de Sistemas  
-- 📫 Contato: [lavindomi@gmail.com](mailto:lavindomi@gmail.com)
+- 📫 Contato: [lavinia_domingos@estudante.sesisenai.org.br](mailto:lavinia_domingos@estudante.sesisenai.org.br)
 
 ---
 
