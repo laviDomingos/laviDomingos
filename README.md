@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lavinDomingos&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=laviDomingos&show_icons=true&theme=tokyonight" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laviDomingos&layout=compact&theme=tokyonight" />
 </p>
